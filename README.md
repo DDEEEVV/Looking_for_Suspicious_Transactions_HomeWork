@@ -64,7 +64,7 @@ I have accomplished three main tasks:
 	        GROUP BY h.card_holder_id, h.full_name
 	        ORDER BY transactions_smaller_than_$2 DESC;
 
-    I think that the evidence that some credit cards have been hacked are the fact that one card holder has 26 transactions over the course of a year that are less than 2.00 USD. I believe that any card holder with more than fifteen less than 2$-transactions per year can be considered as a sign of their credit hard being hacked.
+    I think that the evidence that some credit cards have been hacked are the fact that one card holder has 26 transactions over the course of a year that are less than 2.00 USD. I believe that any card holder with more than fifteen less than 2$-transactions per year can be considered as a sign of their credit card being hacked.
 
         Took my investigation a step further by considering the time period in which potentially fraudulent transactions are made.
 
