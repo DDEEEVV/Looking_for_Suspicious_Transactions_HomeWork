@@ -1,6 +1,6 @@
 # Homework Assignment 7: Looking for Suspicious Transactions
 
-![Credit card fraudster](Images/credit_card_fraudster.jpg)
+![Credit card fraudster](Images/credit_card_fraudster.png)
 
 ## Background
 
