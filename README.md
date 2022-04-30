@@ -202,13 +202,14 @@ Using the information provided to have created  the code for two Python function
 
     ![Code used to identify outliers trough std](Images/outliers_std.png)
 
-    ![Three random selection transactions using Standard Deviation ](Images/three_random_sel_std.png)
-
+    ![Three random selection transactions using Standard Deviation ](Images/three_rantrs_STD.png)
+    ![Three random selection transactions using Standard Deviation ](Images/three_ran7to9trs_STD.png)
+>We can see here that is not a transaction for Elisabeth Sawyer between 07 and 09 am,  that's why it is not appearing on the second plot.
 
 * Another that uses interquartile range to identify anomalies for any cardholder.
 
     ![Code used to identify outliers trough iqr](Images/outliers_iqr.png)
 
-    ![Three random selection transactions using Interquartile Range ](Images/three_random_sel_iqr.png)
-
+    ![Three random selection transactions using Interquartile Range ](Images/three_rantrs_IQR.png)
+    ![Three random selection transactions using Interquartile Range ](Images/three_ran7to9trs_IQR.png)
 </details>
